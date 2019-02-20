@@ -41347,7 +41347,7 @@ $as_echo "$ac_cv_c_bigendian" >&6; }
       LDFLAGS_JDK="$LDFLAGS_JDK -Wl,-z,relro"
       LEGACY_EXTRA_LDFLAGS="$LEGACY_EXTRA_LDFLAGS -Wl,-z,relro"
     fi
-    CXXSTD_CXXFLAG="-std=gnu++98"
+    CXXSTD_CXXFLAG="-std=c++11"
 
   { $as_echo "$as_me:${as_lineno-$LINENO}: checking if the C++ compiler supports \"$CXXSTD_CXXFLAG -Werror\"" >&5
 $as_echo_n "checking if the C++ compiler supports \"$CXXSTD_CXXFLAG -Werror\"... " >&6; }
