@@ -1,0 +1,21 @@
+[submodule "corba"]
+	path = corba
+	url = git@github.com:eyolfson/jdk8-corba
+[submodule "hotspot"]
+	path = hotspot
+	url = git@github.com:eyolfson/jdk8-hotspot
+[submodule "jaxp"]
+	path = jaxp
+	url = git@github.com:eyolfson/jdk8-jaxp
+[submodule "jaxws"]
+	path = jaxws
+	url = git@github.com:eyolfson/jdk8-jaxws
+[submodule "jdk"]
+	path = jdk
+	url = git@github.com:eyolfson/jdk8-jdk
+[submodule "langtools"]
+	path = langtools
+	url = git@github.com:eyolfson/jdk8-langtools
+[submodule "nashorn"]
+	path = nashorn
+	url = git@github.com:eyolfson/jdk8-nashorn
